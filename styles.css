@@ -386,7 +386,7 @@ body {
 	}
 	.photo img {
 		width: 100px;
-		height: 100px;
+		height: auto;
 	}
 }
 
